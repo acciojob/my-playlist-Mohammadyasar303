@@ -18,3 +18,9 @@ li{
 a{
 	text-decoration-line:none;
 }
+
+div{
+	background-color: rgb(255, 255, 255); 
+	padding:10px; 
+	border-radius:1px;
+}
